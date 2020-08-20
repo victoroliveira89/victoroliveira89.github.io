@@ -1411,6 +1411,13 @@ a:hover.back-to-top {
 	.navbar-custom .dropdown-items-divide-hr {
 		width: 84%;
 	}
+
+	.login {
+		font-size: 1.2rem;
+		border: 2px solid #008940;
+		border-radius: 10px;
+		margin-left: 30px;
+	}
 	/* end of navigation */
 
 
